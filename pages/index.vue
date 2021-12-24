@@ -9,32 +9,32 @@
           <div class="edition"></div>
         </div>
       </aside>
-      <h2 class="title--large main-title">Woman spends too much time on Codepens despite advice; no plans to stop</h2>
+      <h2 class="title--large main-title">Rachel needs to convince her dad to get vaccinated</h2>
       <div class="main-text multi-column">
         <p>
-          Sometimes, Internet users land themselves in an uncommon situation where an app or website can be used for
-          both work and personal situations. Well, a young front-end designer was spending up to 13 hours on the site,
-          Codepen for work and her hobby, which unfortunately, is also coding.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis nibh in eros tincidunt venenatis. Aliquam sed
+          dictum tellus. Nulla cursus ligula sapien, et pharetra leo hendrerit sed. Morbi et imperdiet tellus. Phasellus
+          non varius augue. Suspendisse tempor lacinia arcu sit amet placerat. Integer egestas dui ut pellentesque
+          pretium. Mauris sagittis odio et libero aliquet fermentum.
         </p>
         <p>
-          The designer, whose work includes a <em>To-Do Terrarium</em>, clarified, "Well, I didn't <em> have </em>to use
-          it for work but it was already part of my workflow. It just made sense as it was more efficient." The biggest
-          issue, she said, is that she would hop on Codepen for work, but would get distracted by pens made by others in
-          the community for unexpectedly long periods of time, which then causes her to spend even more time on the
-          site.
+          Ut non cursus quam, non iaculis nisi. Proin augue lacus, laoreet nec sollicitudin quis, tristique vitae velit.
+          Nunc volutpat euismod odio, nec lacinia urna ornare ut. Vestibulum tristique, odio eget tempus tempus, risus
+          est interdum sem, sit amet aliquet dolor erat quis elit. Vestibulum ante ipsum primis in faucibus orci luctus
+          et ultrices posuere cubilia curae;
         </p>
         <p>
-          "I mean, that's terrible right?" she asked. Codepen, which brands itself as the best place to build, test, and
-          discover front-end code, has declined to comment at this time.
+          Proin a turpis non velit porttitor mollis sit amet sit amet neque. Cras facilisis ultricies lacus, non auctor
+          turpis egestas nec.
         </p>
       </div>
-      <a class="terrarium" href="https://codepen.io/oliviale/full/oNXJgEM" target="_blank">
+      <a class="terrarium" href="#" target="_blank">
         <figure>
-          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-terrarium.jpg" />
-          <figcaption>A to-do list that grows succulents when you've completed a task</figcaption>
+          <img src="http://placekitten.com/600/600" />
+          <figcaption>This kitten would get vaccinated if they could talk</figcaption>
         </figure> </a
-      ><a class="item-with-image plan span--2 long--2" href="https://codepen.io/oliviale/full/moLrBq" target="_blank"
-        ><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-floorplan.jpg" />
+      ><a class="item-with-image plan span--2 long--2" href="#" target="_blank"
+        ><img src="http://placekitten.com/500/300" />
         <h4>Can you get inspired to make your own floor plans?</h4>
         <div class="multi-column">
           <p>
@@ -44,11 +44,10 @@
             look out of pensively during rainy days and a ton of "white space" for the cats to run around.
           </p>
         </div> </a
-      ><a class="hogwarts" href="https://codepen.io/oliviale/full/MZZYyO" target="_blank">
-        <div class="hogwarts__title">50% Off Hogwarts Express tickets</div>
+      ><a class="hogwarts" href="#" target="_blank">
+        <div class="hogwarts__title">50 Kittens</div>
         <div class="hogwarts__image">
-          <span>Limited time offer</span
-          ><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-hogwarts.svg" />
+          <span>Limited time offer</span><img src="http://placekitten.com/300/600" />
         </div> </a
       ><a class="item-with-image pasta with-border" href="https://codepen.io/oliviale/full/zYvxXWw" target="_blank">
         <h4>A pasta menu</h4>
@@ -125,8 +124,8 @@
       </div>
       <div class="sidebar">
         <h3 class="title--big">Hot this month</h3>
-        <a class="codepen-item pie" href="https://codepen.io/oliviale/full/BaovGmg" target="_blank"
-          ><img class="pie__image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/showcase-pie.jpg" />
+        <a class="codepen-item pie" href="#" target="_blank"
+          ><img class="pie__image" src="http://placekitten.com/200/500" />
           <div class="pie__subtitle">Food</div>
           <div class="pie__content">
             <h4>Pies for everyone!</h4>
